@@ -4,4 +4,5 @@
     <img src="{{ url('storage/public/'.$img->path) }}">
     @endforeach
     <a href="lode">UPLOAD IMAGES</a>
+    <h2>hello world</h2>
 </div>
